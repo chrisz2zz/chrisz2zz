@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisz2zz)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=chrisz2zz" /> </div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chrisz2zz&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)

@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **chrisz2zz/chrisz2zz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

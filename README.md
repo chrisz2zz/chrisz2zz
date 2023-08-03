@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisz2zz)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=chrisz2zz" /> </div>

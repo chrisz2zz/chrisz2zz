@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chrisz2zz&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chrisz2zz)](https://git.io/streak-stats)
